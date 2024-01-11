@@ -36,6 +36,7 @@ Before running the CS50 Quiz Game, make sure you have the following installed:
    ```
    git clone https://github.com/KristofferEdstrom/cs50p-quiz-game
    cd cs50p-quiz-game
+   pip install -r requirements.txt
    ```
 
 
@@ -108,9 +109,11 @@ The program is exepecting a file named questions.txt formatted as below:
     Question A | Option AA | Option AB | Option AC | Option AD | AnswerA
     Question B | Option BA | Option BB | Option BC | Option BD | AnswerB
     Question C | Option CA | Option CB | Option CC | Option CD | AnswerC
-Make sure to separate each component with the '|' (pipe) character.
+Make sure to separate each component with the '|' (pipe) character, and that there are no empty rows between the questions.
 
-Feel free to customize and contribute to the project to make it even better! If you have any questions or feedback, please open an issue.
+Feel free to customize and contribute to the project to make it even better!
+
+ The questions are generated using chatGPT-3.5. If the questions are not sorted from being duplicate, wrongly asked, incorrect, outdated - or if you have any of your own questions or feedback please open an issue.
 
 Happy quizzing!
 
