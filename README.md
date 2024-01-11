@@ -2,6 +2,8 @@
 
 Welcome to the CS50 Quiz Game! This simple quiz game allows users to answer random questions and test their knowledge.
 
+Video Demo: https://www.youtube.com/watch?v=gJkO0qMaJew
+
 ## Table of Contents
 
 - [Features](#features)
