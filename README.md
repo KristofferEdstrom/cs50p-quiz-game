@@ -111,7 +111,7 @@ The program is exepecting a file named questions.txt formatted as below:
     Question C | Option CA | Option CB | Option CC | Option CD | AnswerC
 Make sure to separate each component with the '|' (pipe) character, and that there are no empty rows between the questions.
 
-Feel free to customize and contribute to the project to make it even better!
+Feel free to customize and contribute to the project to make it even better or add your own questions to the quiz!
 
  The questions are generated using chatGPT-3.5. If the questions are not sorted from being duplicate, wrongly asked, incorrect, outdated - or if you have any of your own questions or feedback please open an issue.
 
