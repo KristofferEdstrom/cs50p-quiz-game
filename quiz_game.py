@@ -12,7 +12,7 @@ def main():
     random.shuffle(questions)
 
     # Run the quiz and get the final score
-    max_questions = get_max_questions()
+    max_questions = get_max_questions(len(questions))  # Set max_questions to the total number of questions
     score = run_quiz(questions, max_questions)
 
     print(f"\nQuiz complete! Your final score is: {score}/{max_questions}")
@@ -20,6 +20,8 @@ def main():
 def load_questions(filename):
     # Empty list to store the questions in
     questions = []
+    # An empty set, to store all unique questions in
+    original_questions = set()
 
     try:
         with open(filename, 'r') as file:
@@ -34,13 +36,19 @@ def load_questions(filename):
                     'answer': components[5]
                 }
 
-                # Add the question dictionary to the list
-                questions.append(question)
+                # Check if there are duplicate questions in the file
+                if question['question'] not in original_questions:
+                    # Add the question dictionary to the list
+                    questions.append(question)
+                    # Add the question text to the set of original questions
+                    original_questions.add(question['question'])
+
     except FileNotFoundError:
         print(f"Error: File '{filename}' not found.")
         sys.exit(1)  # Exit the program with a non-zero status code indicating an error
 
     return questions
+
 
 def ask_question(question):
     # Print the question and its options
@@ -48,23 +56,32 @@ def ask_question(question):
     for option in question['options']:
         print(f"{option}")
 
-    # Get the user's answer and make it uppercased
-    user_answer = input("Your answer (A, B, C or D): ").upper()
+    while True:
+        # Get the user's answer and make it uppercased
+        user_answer = input("Your answer (A, B, C or D): ").upper()
 
-    # Check if the user's answer is correct, take the first char of 'answer' which is A,B,C or D
-    correct_answer = question['answer'][0]
-    # is_correct is True if user_answer matches with correct_answer
-    is_correct = user_answer == correct_answer
+        try:
+            # Check if the user's answer is A, B, C, or D
+            if user_answer not in ['A', 'B', 'C', 'D']:
+                raise ValueError("Invalid input. Please enter A, B, C, or D.")
 
-    if is_correct:
-        print("Correct!\n")
-    # Providing a way for the user to exit the program
-    elif user_answer == 'EXIT':
-        sys.exit(0)
-    else:
-        print(f"Incorrect. The correct answer is {correct_answer}.\n")
+            # Check if the user's answer is correct, take the first char of 'answer' which is A,B,C or D
+            correct_answer = question['answer'][0]
+            # is_correct is True if user_answer matches with correct_answer
+            is_correct = user_answer == correct_answer
 
-    return is_correct
+            if is_correct:
+                print("Correct!\n")
+            # Providing a way for the user to exit the program
+            elif user_answer == 'EXIT':
+                sys.exit(0)
+            else:
+                print(f"Incorrect. The correct answer is {correct_answer}.\n")
+
+            return is_correct
+
+        except ValueError as e:
+            print(f"Error: {e}")
 
 def run_quiz(questions, max_questions):
 
@@ -78,21 +95,21 @@ def run_quiz(questions, max_questions):
 
     return score
 
-def get_max_questions():
-    # Make sure the user inputs a valid number 1-20
+def get_max_questions(total_questions):
+    # Make sure the user inputs a valid number 1-total_questions
     while True:
         try:
-            max_questions = input("\nGet 1-20 random questions. Type 'exit' any time to quit the program\nHow many questions? ")
+            max_questions = input(f"\nGet 1-{total_questions} random questions. Type 'exit' any time to quit the program\nHow many questions? ")
 
             if max_questions.upper() == "EXIT":
                 sys.exit(0)
 
             max_questions = int(max_questions)
 
-            if 1 <= max_questions <= 20:
+            if 1 <= max_questions <= total_questions:
                 return max_questions
             else:
-                print("Please enter a number between 1 and 20.")
+                print(f"Please enter a number between 1 and {total_questions}.")
         except ValueError:
             print("Please enter a valid number.")
 
