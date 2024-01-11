@@ -36,7 +36,6 @@ Before running the CS50 Quiz Game, make sure you have the following installed:
    ```
    git clone https://github.com/KristofferEdstrom/cs50p-quiz-game
    cd cs50p-quiz-game
-   pip install -r requirements.txt
    ```
 
 
