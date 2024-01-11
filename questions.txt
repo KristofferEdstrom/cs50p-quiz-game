@@ -26,12 +26,11 @@ What is the currency of Brazil?|A) Real|B) Peso|C) Rupee|D) Baht|A) Real
 Who painted the "Girl with a Pearl Earring"?|A) Rembrandt|B) Vermeer|C) Picasso|D) Van Gogh|B) Vermeer
 What is the capital of South Africa?|A) Johannesburg|B) Pretoria|C) Cape Town|D) Durban|B) Pretoria
 Who is the author of "The Great Gatsby"?|A) F. Scott Fitzgerald|B) Ernest Hemingway|C) Jane Austen|D) Charles Dickens|A) F. Scott Fitzgerald
-What is the smallest prime number?|A) 0|B) 1|C) 2|D) 3|C) 2
 Which element has the chemical symbol 'H'?|A) Helium|B) Hydrogen|C) Mercury|D) Neon|B) Hydrogen
 Who wrote the play "Hamlet"?|A) William Shakespeare|B) Oscar Wilde|C) Anton Chekhov|D) Henrik Ibsen|A) William Shakespeare
 What is the capital of Mexico?|A) Cancún|B) Mexico City|C) Tijuana|D) Guadalajara|B) Mexico City
 Which river is the longest in the world?|A) Nile|B) Amazon|C) Yangtze|D) Mississippi|A) Nile
-Who is known as the "Father of Modern Physics"?|A) Isaac Newton|B) Galileo Galilei|C) Albert Einstein|D) Max Planck|C) Albert Einstein
+Who is known as the "Father of Modern Physics"?|A) Isaac Newton|B) Galileo Galilei|C) Albert Einstein|D) Max Planck|C) Isaac Newton
 What is the currency of India?|A) Rupee|B) Baht|C) Rupiah|D) Ringgit|A) Rupee
 Who painted the "Sistine Chapel Ceiling"?|A) Raphael|B) Michelangelo|C) Leonardo da Vinci|D) Botticelli|B) Michelangelo
 In which year did the United States declare its independence?|A) 1776|B) 1789|C) 1801|D) 1812|A) 1776
@@ -67,3 +66,78 @@ What is the capital of Egypt?|A) Cairo|B) Alexandria|C) Luxor|D) Giza|A) Cairo
 Who painted the "Guernica"?|A) Pablo Picasso|B) Salvador Dalí|C) Vincent van Gogh|D) Claude Monet|A) Pablo Picasso
 What is the currency of South Africa?|A) Rand|B) Pula|C) Kwacha|D) Shilling|A) Rand
 Who is the author of "The Odyssey"?|A) Homer|B) Virgil|C) Dante Alighieri|D) Sophocles|A) Homer
+What is the capital of Sweden?|A) Oslo|B) Stockholm|C) Helsinki|D) Copenhagen|B) Stockholm
+Who wrote the novel "The Lord of the Rings"?|A) George R.R. Martin|B) J.K. Rowling|C) J.R.R. Tolkien|D) C.S. Lewis|C) J.R.R. Tolkien
+What is the largest moon of Jupiter?|A) Ganymede|B) Io|C) Europa|D) Callisto|A) Ganymede
+Which element has the chemical symbol 'Fe'?|A) Iron|B) Gold|C) Silver|D) Copper|A) Iron
+Who painted the "Birth of Venus"?|A) Leonardo da Vinci|B) Sandro Botticelli|C) Michelangelo|D) Raphael|B) Sandro Botticelli
+What is the capital of South Korea?|A) Seoul|B) Busan|C) Incheon|D) Daegu|A) Seoul
+In which year did the Berlin Wall fall?|A) 1985|B) 1989|C) 1991|D) 1995|B) 1989
+What is the smallest prime number greater than 10?|A) 11|B) 13|C) 17|D) 19|C) 11
+Who wrote the play "The Importance of Being Earnest"?|A) Oscar Wilde|B) George Bernard Shaw|C) Samuel Beckett|D) Tennessee Williams|A) Oscar Wilde
+What is the capital of Peru?|A) Quito|B) Santiago|C) Lima|D) Bogotá|C) Lima
+Who is known as the "Father of Medicine"?|A) Hippocrates|B) Galen|C) Avicenna|D) Paracelsus|A) Hippocrates
+What is the currency of South Korea?|A) Won|B) Yen|C) Yuan|D) Baht|A) Won
+Which planet is known as the "Gas Giant"?|A) Earth|B) Jupiter|C) Saturn|D) Neptune|B) Jupiter
+Who wrote the novel "One Hundred Years of Solitude"?|A) Gabriel García Márquez|B) Isabel Allende|C) Mario Vargas Llosa|D) Julio Cortázar|A) Gabriel García Márquez
+What is the capital of Nigeria?|A) Lagos|B) Abuja|C) Accra|D) Nairobi|B) Abuja
+Who directed the movie "Inception"?|A) Christopher Nolan|B) Quentin Tarantino|C) Martin Scorsese|D) Steven Spielberg|A) Christopher Nolan
+What is the largest freshwater lake in the world by volume?|A) Lake Baikal|B) Lake Superior|C) Lake Victoria|D) Great Bear Lake|A) Lake Baikal
+Who is the author of "Brave New World"?|A) Aldous Huxley|B) George Orwell|C) Ray Bradbury|D) Isaac Asimov|A) Aldous Huxley
+What is the capital of Thailand?|A) Jakarta|B) Manila|C) Bangkok|D) Hanoi|C) Bangkok
+In which year did the first manned moon landing occur?|A) 1961|B) 1969|C) 1975|D) 1983|B) 1969
+Who painted "The Persistence of Memory"?|A) Salvador Dalí|B) Pablo Picasso|C) Claude Monet|D) Vincent van Gogh|A) Salvador Dalí
+What is the currency of Switzerland?|A) Euro|B) Pound Sterling|C) Swiss Franc|D) Krona|C) Swiss Franc
+Who discovered radium and polonium?|A) Marie Curie|B) Ernest Rutherford|C) Niels Bohr|D) Max Planck|A) Marie Curie
+What is the capital of Indonesia?|A) Jakarta|B) Kuala Lumpur|C) Manila|D) Bangkok|A) Jakarta
+Who wrote the play "The Cherry Orchard"?|A) Anton Chekhov|B) Henrik Ibsen|C) Tennessee Williams|D) Eugene O'Neill|A) Anton Chekhov
+What is the largest ocean on Earth?|A) Atlantic|B) Indian|C) Southern|D) Pacific|D) Pacific
+Who is known as the "King of Pop"?|A) Michael Jackson|B) Elvis Presley|C) Prince|D) Madonna|A) Michael Jackson
+What is the currency of Argentina?|A) Peso|B) Real|C) Sol|D) Peso Uruguayo|A) Peso
+Which planet is known as the "Blue Planet"?|A) Mars|B) Earth|C) Neptune|D) Uranus|B) Earth
+Who wrote the novel "The Hitchhiker's Guide to the Galaxy"?|A) Douglas Adams|B) Isaac Asimov|C) Arthur C. Clarke|D) Philip K. Dick|A) Douglas Adams
+What is the capital of Sweden?|A) Oslo|B) Stockholm|C) Helsinki|D) Copenhagen|B) Stockholm
+Who painted the "Night Watch"?|A) Rembrandt|B) Vermeer|C) Van Gogh|D) Monet|A) Rembrandt
+What is the currency of Mexico?|A) Peso|B) Real|C) Dollar|D) Euro|A) Peso
+Who discovered penicillin?|A) Alexander Fleming|B) Louis Pasteur|C) Joseph Lister|D) Paul Farmer|A) Alexander Fleming
+What is the capital of Ireland?|A) Edinburgh|B) Dublin|C) Belfast|D) London|B) Dublin
+Who wrote the play "A Midsummer Night's Dream"?|A) William Shakespeare|B) Christopher Marlowe|C) Ben Jonson|D) John Milton|A) William Shakespeare
+What is the smallest prime number greater than 20?|A) 21|B) 23|C) 29|D) 31|B) 23
+Who is known as the "Queen of Soul"?|A) Whitney Houston|B) Aretha Franklin|C) Beyoncé|D) Tina Turner|B) Aretha Franklin
+Who wrote the play "The Glass Menagerie"?|A) Arthur Miller|B) Tennessee Williams|C) Eugene O'Neill|D) Lorraine Hansberry|B) Tennessee Williams
+What is the capital of China?|A) Beijing|B) Shanghai|C) Hong Kong|D) Taipei|A) Beijing
+Who painted "American Gothic"?|A) Grant Wood|B) Jackson Pollock|C) Georgia O'Keeffe|D) Edward Hopper|A) Grant Wood
+What is the largest desert in Africa?|A) Sahara|B) Kalahari|C) Namib|D) Arabian|A) Sahara
+Who is the protagonist in "The Catcher in the Rye"?|A) Holden Caulfield|B) Jay Gatsby|C) Atticus Finch|D) Winston Smith|A) Holden Caulfield
+What is the capital of South Korea?|A) Seoul|B) Busan|C) Incheon|D) Daegu|A) Seoul
+Who wrote the novel "Wuthering Heights"?|A) Charlotte Brontë|B) Emily Brontë|C) Jane Austen|D) Charles Dickens|B) Emily Brontë
+What is the currency of South Africa?|A) Rand|B) Pula|C) Kwacha|D) Shilling|A) Rand
+Which gas do humans exhale when they breathe?|A) Oxygen|B) Nitrogen|C) Carbon Dioxide|D) Hydrogen|C) Carbon Dioxide
+Who painted "Whistler's Mother"?|A) James Whistler|B) John Singer Sargent|C) Claude Monet|D) Pierre-Auguste Renoir|A) James Whistler
+What is the capital of Italy?|A) Rome|B) Milan|C) Florence|D) Venice|A) Rome
+Who wrote the play "The Taming of the Shrew"?|A) William Shakespeare|B) Christopher Marlowe|C) Ben Jonson|D) John Milton|A) William Shakespeare
+What is the smallest prime number greater than 30?|A) 31|B) 33|C) 37|D) 41|A) 31
+Who is known as the "Queen of Crime" for her mystery novels?|A) Agatha Christie|B) Patricia Cornwell|C) Mary Higgins Clark|D) P.D. James|A) Agatha Christie
+What is the currency of South Korea?|A) Won|B) Yen|C) Yuan|D) Baht|A) Won
+In which year did the Titanic sink?|A) 1912|B) 1920|C) 1901|D) 1935|A) 1912
+Who is the author of "The Picture of Dorian Gray"?|A) Oscar Wilde|B) F. Scott Fitzgerald|C) Jane Austen|D) Charles Dickens|A) Oscar Wilde
+What is the capital of Canada?|A) Vancouver|B) Toronto|C) Ottawa|D) Montreal|C) Ottawa
+Who wrote the novel "The Grapes of Wrath"?|A) John Steinbeck|B) Ernest Hemingway|C) F. Scott Fitzgerald|D) Harper Lee|A) John Steinbeck
+What is the largest bird in the world?|A) Eagle|B) Ostrich|C) Penguin|D) Albatross|B) Ostrich
+Who is known as the "Father of Modern Chemistry"?|A) Antoine Lavoisier|B) Dmitri Mendeleev|C) Robert Boyle|D) John Dalton|A) Antoine Lavoisier
+What is the currency of Switzerland?|A) Euro|B) Pound Sterling|C) Swiss Franc|D) Krona|C) Swiss Franc
+Who painted "The Last Supper"?|A) Leonardo da Vinci|B) Michelangelo|C) Raphael|D) Donatello|A) Leonardo da Vinci
+What is the capital of Australia?|A) Sydney|B) Melbourne|C) Canberra|D) Brisbane|C) Canberra
+Who wrote the play "Antigone"?|A) Sophocles|B) Euripides|C) Aeschylus|D) Aristophanes|A) Sophocles
+What is the chemical symbol for gold?|A) Au|B) Ag|C) Cu|D) Fe|A) Au
+Who is known as the "Father of Geometry"?|A) Euclid|B) Pythagoras|C) Archimedes|D) Aristotle|A) Euclid
+What is the currency of Egypt?|A) Pound|B) Dinar|C) Riyal|D) Dirham|A) Pound
+What is the capital of Argentina?|A) Buenos Aires|B) Santiago|C) Lima|D) Bogotá|A) Buenos Aires
+Who wrote the play "The Importance of Being Earnest"?|A) Oscar Wilde|B) George Bernard Shaw|C) Samuel Beckett|D) Tennessee Williams|A) Oscar Wilde
+What is the smallest prime number greater than 40?|A) 41|B) 43|C) 47|D) 53|A) 41
+Who is the author of "Moby-Dick"?|A) Herman Melville|B) Nathaniel Hawthorne|C) Emily Dickinson|D) Walt Whitman|A) Herman Melville
+What is the capital of Nigeria?|A) Lagos|B) Abuja|C) Accra|D) Nairobi|B) Abuja
+Who painted "The Scream"?|A) Edvard Munch|B) Pablo Picasso|C) Vincent van Gogh|D) Claude Monet|A) Edvard Munch
+What is the currency of Japan?|A) Won|B) Yen|C) Yuan|D) Baht|B) Yen
+In which year did World War I begin?|A) 1905|B) 1914|C) 1920|D) 1939|B) 1914
+Who wrote the novel "Frankenstein"?|A) Mary Shelley|B) Bram Stoker|C) Edgar Allan Poe|D) H.G. Wells|A) Mary Shelley
