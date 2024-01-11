@@ -17,6 +17,8 @@ def main():
 
     print(f"\nQuiz complete! Your final score is: {score}/{max_questions}")
 
+
+
 def load_questions(filename):
     # Empty list to store the questions in
     questions = []
@@ -50,6 +52,7 @@ def load_questions(filename):
     return questions
 
 
+
 def ask_question(question):
     # Print the question and its options
     print(question['question'])
@@ -58,7 +61,11 @@ def ask_question(question):
 
     while True:
         # Get the user's answer and make it uppercased
-        user_answer = input("Your answer (A, B, C or D): ").upper()
+        user_answer = input("Your answer (A, B, C, D): ").upper()
+
+        # Check if the user wants to exit the program
+        if user_answer == 'EXIT':
+            sys.exit(0)
 
         try:
             # Check if the user's answer is A, B, C, or D
@@ -72,9 +79,6 @@ def ask_question(question):
 
             if is_correct:
                 print("Correct!\n")
-            # Providing a way for the user to exit the program
-            elif user_answer == 'EXIT':
-                sys.exit(0)
             else:
                 print(f"Incorrect. The correct answer is {correct_answer}.\n")
 
@@ -82,6 +86,8 @@ def ask_question(question):
 
         except ValueError as e:
             print(f"Error: {e}")
+
+
 
 def run_quiz(questions, max_questions):
 
@@ -95,8 +101,10 @@ def run_quiz(questions, max_questions):
 
     return score
 
+
+
 def get_max_questions(total_questions):
-    # Make sure the user inputs a valid number 1-total_questions
+    # Make sure the user input a valid number 1-total_questions
     while True:
         try:
             max_questions = input(f"\nGet 1-{total_questions} random questions. Type 'exit' any time to quit the program\nHow many questions? ")
@@ -113,6 +121,7 @@ def get_max_questions(total_questions):
         except ValueError:
             print("Please enter a valid number.")
 
+
+
 if __name__ == "__main__":
     main()
-    
